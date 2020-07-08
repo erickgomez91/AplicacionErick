@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AplicacionErick</string>
+    <string name="action_settings">Configuraciones</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Primera sección</string>
+    <string name="second_fragment_label">Segunda sección</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+
+    <string name="hello_first_fragment">Hola a todos, esta es mi primera apliación!</string>
+    <string name="hello_second_fragment">Y es multi idiomas</string>
+</resources>

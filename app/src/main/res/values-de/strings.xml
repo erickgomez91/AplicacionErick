@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">AplicacionErick</string>
+    <string name="action_settings">Konfigurationen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Erster Abschnitt</string>
+    <string name="second_fragment_label">Zweiter Abschnitt</string>
+    <string name="next">Folgen</string>
+    <string name="previous">Bisherige</string>
+
+    <string name="hello_first_fragment">Hallo allerseits, dies ist meine erste Bewerbung</string>
+    <string name="hello_second_fragment">Und es ist mehrsprachig</string>
+
+</resources>
